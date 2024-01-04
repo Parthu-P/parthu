@@ -58,4 +58,10 @@ public class IESServiceImpl implements IESService {
 		// TODO Auto-generated method stub
 		return null;
 	}
+
+	@Override
+	public IESEntity iesRecords() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }

@@ -11,4 +11,5 @@ public interface IESService {
 	public List<IESEntity> iesGetRecordBasedOnName(String value);
 	public IESEntity iesRecordUpdate(IESEntity updateRecord, Integer id);
 	public String iesRecordDelete(Integer id);
+	public IESEntity iesRecords();
 }
